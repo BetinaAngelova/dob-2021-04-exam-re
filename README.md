@@ -6,6 +6,9 @@ It is a set of three Docker containers, each with a dedicated role. Together the
 The general setup looks like:
 ![general setup](https://github.com/shekeriev/dob-2021-04-exam-re/blob/main/setup.png?raw=true)
 
+If all set up corectly then the result will be something like this:
+![sample result](https://github.com/shekeriev/dob-2021-04-exam-re/blob/main/result.png?raw=true)
+
 For successful completion of the challenge, you will have to implement the following steps:
  - (re)build the images;
  - (re)run the containers;
