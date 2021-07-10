@@ -11,7 +11,7 @@
 
 <body>
   <h2>Fun Facts About Animals</h2>
-  <h5>At least the ten recently discovered fun facts. Refresh in a minute or two to see more.</h5>
+  <h5>Recently discovered fun facts. Refresh in a minute or two to see more.</h5>
   <ul>
   {FACTS}
   </ul>
