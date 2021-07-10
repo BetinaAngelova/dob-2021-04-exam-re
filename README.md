@@ -4,9 +4,11 @@ A simple project to be used for the final practice retake exam for the **DevOps 
 It is a set of three Docker containers, each with a dedicated role. Together they form a simple web application. 
 
 The general setup looks like:
+
 ![general setup](https://github.com/shekeriev/dob-2021-04-exam-re/blob/main/setup.png?raw=true)
 
 If all set up corectly then the result will be something like this:
+
 ![sample result](https://github.com/shekeriev/dob-2021-04-exam-re/blob/main/result.png?raw=true)
 
 For successful completion of the challenge, you will have to implement the following steps:
