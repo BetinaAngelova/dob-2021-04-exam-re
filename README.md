@@ -3,12 +3,6 @@ A simple project to be used for the final practice retake exam for the **DevOps 
 
 It is a set of three Docker containers, each with a dedicated role. Together they form a simple web application.
 
-     +----------+     +----------+     +----------+
- 5000|          |     |          |     |          |
---<--+ consumer +--<--+ storage  +--<--+ producer |
-     |          |     |          |     |          |
-     +----------+     +----------+     +----------+
-
 For successful completion of the challenge, you will have to implement the following steps:
  - (re)build the images;
  - (re)run the containers;
