@@ -1,4 +1,4 @@
-# dob-2021-04-exam-re
+# exam-prep
 A simple project to be used for the final practice retake exam for the **DevOps Basics** (*2021.04*) course at **SoftUni**. 
 
 It is a set of three Docker containers, each with a dedicated role. Together they form a simple web application. 
